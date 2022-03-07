@@ -1,12 +1,12 @@
 # Numerical-Analysis
-
+This repository includes the implementation of several methods in the field of numerical computing. 
 ## Function approximation 
 With the interpolation method, the approximated function for the data is as follows: 
-<p align="center"><img width=650 src="./images/result_fucntion_approximination.png" alt="Approximination Result."/></p>
+<p align="center"><img width=450 src="./images/result_fucntion_approximination.png" alt="Approximination Result."/></p>
 
 ## Integration
 Using Simpsons, trapezoidals, and composite midpoint methods, we obtained the integral value of the mentioned function. You can see the result values in the figure below. 
-<p align="center"><img width=1000 src="./images/results_different_integral.png" alt="Approximination Result."/></p>
+<p align="center"><img width=850 src="./images/results_different_integral.png" alt="Approximination Result."/></p>
 
 **Note1:** As we know, the number of points in the mentioned methods has limitations (including the number of points that must be odd and more than 3) If the user enters this number of points incorrectly with the designed error "Enter the number of points incorrectly" You've encountered.
 **Note2:** The integral error of the Simpsons method was not as good as other methods.
@@ -34,4 +34,4 @@ Where h is the step size. The difference between x_{n} and x_{n+1}:
 
 You can see the result values in the figure below.
 
-<p align="center"><img width=650 src="./images/result_euler_method.png" alt="Approximination Result."/></p>
+<p align="center"><img width=450 src="./images/result_euler_method.png" alt="Approximination Result."/></p>
