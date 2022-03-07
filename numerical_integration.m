@@ -60,10 +60,3 @@ disp(Integral)
 I=integral(f,a,b);
 Integral=[num2str(I),' The integral value is Function Matlab in the range of ',num2str(a),' to ',num2str(b)];
 disp(Integral)
-
-
-
-
-
-
-
