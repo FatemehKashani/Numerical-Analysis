@@ -9,6 +9,7 @@ Using Simpsons, trapezoidals, and composite midpoint methods, we obtained the in
 <p align="center"><img width=850 src="./images/results_different_integral.png" alt="Approximination Result."/></p>
 
 **Note1:** As we know, the number of points in the mentioned methods has limitations (including the number of points that must be odd and more than 3) If the user enters this number of points incorrectly with the designed error "Enter the number of points incorrectly" You've encountered.
+
 **Note2:** The integral error of the Simpsons method was not as good as other methods.
 
 ## Differential equation
